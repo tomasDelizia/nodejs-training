@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb989dda-a3cd-4a75-8e3c-44835a51ab15" name="Default Changelist" comment="Endpoint eliminar puntajes añadido.">
+      <change afterPath="$PROJECT_DIR$/src/config/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middlewares/ValidationSchema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Perfil.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Usuario.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodemon.json" beforeDir="false" afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ormconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ormconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/AlumnosController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/AlumnosController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/EjemploController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/EjemploController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ProfesoresController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ProfesoresController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/PuntajesController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/PuntajesController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ReparticionesController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ReparticionesController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/TemasController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/TemasController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/interfaces/IEjemploService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/interfaces/IEjemploService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21mKGtQUGzGlL4o1KgkV0Ml2pSv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FrontEnd/capacitacion-angular" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Users\tomid\Documents\Universidad\CIDS\BackEnd\capacitacion-nodejs\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomid\Documents\Universidad\CIDS\BackEnd\capacitacion-nodejs\src" />
+      <recent name="C:\Users\tomid\Documents\Universidad\CIDS\BackEnd\capacitacion-nodejs\src\services\interfaces" />
+      <recent name="C:\Users\tomid\Documents\Universidad\CIDS\BackEnd\capacitacion-nodejs\src\entities" />
+      <recent name="C:\Users\tomid\OneDrive - frc.utn.edu.ar\Universidad\CIDS\Clase 3\capacitacion-nodejs\src\services" />
+      <recent name="C:\Users\tomid\OneDrive - frc.utn.edu.ar\Universidad\CIDS\Clase 3\capacitacion-nodejs\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="dist/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="build" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="dist/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2">
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="build" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb989dda-a3cd-4a75-8e3c-44835a51ab15" name="Default Changelist" comment="" />
+      <created>1638540729540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638540729540</updated>
+      <workItem from="1638540730591" duration="3881000" />
+      <workItem from="1638840065695" duration="311000" />
+      <workItem from="1639062112364" duration="2795000" />
+      <workItem from="1639083410712" duration="5416000" />
+      <workItem from="1639141301215" duration="7277000" />
+      <workItem from="1639307049952" duration="15574000" />
+      <workItem from="1639656325909" duration="12591000" />
+      <workItem from="1639674685063" duration="1032000" />
+      <workItem from="1639746261297" duration="698000" />
+      <workItem from="1640024400756" duration="8124000" />
+      <workItem from="1640091620758" duration="430000" />
+      <workItem from="1640094826733" duration="3493000" />
+      <workItem from="1640564429355" duration="608000" />
+      <workItem from="1640648564414" duration="32141000" />
+      <workItem from="1641247482490" duration="6878000" />
+      <workItem from="1647557456657" duration="1268000" />
+      <workItem from="1647905518870" duration="1030000" />
+      <workItem from="1647914489790" duration="600000" />
+      <workItem from="1652555975824" duration="2157000" />
+      <workItem from="1652637337876" duration="9454000" />
+      <workItem from="1652741425394" duration="605000" />
+    </task>
+    <task id="LOCAL-00001" summary="Endpoint reparticiones añadido.">
+      <created>1640660326561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640660326561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Endpoint buscar puntajes añadido.">
+      <created>1640829670902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640829670902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Endpoints de profesores y puntajes añadidos. Mejoras en la obtención de datos con QueryBuilder en los endpoints de puntajes y alumnos.">
+      <created>1641176812846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641176812846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Endpoint eliminar puntajes añadido.">
+      <created>1641257838818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641257838818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Endpoint reparticiones añadido." />
+    <MESSAGE value="Endpoint buscar puntajes añadido." />
+    <MESSAGE value="Endpoints de profesores y puntajes añadidos. Mejoras en la obtención de datos con QueryBuilder en los endpoints de puntajes y alumnos." />
+    <MESSAGE value="Endpoint eliminar puntajes añadido." />
+    <option name="LAST_COMMIT_MESSAGE" value="Endpoint eliminar puntajes añadido." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
